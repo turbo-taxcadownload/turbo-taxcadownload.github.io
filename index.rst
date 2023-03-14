@@ -7,7 +7,7 @@
     :align: center
     :height: 500px
     :alt: Turbotax.ca/download
-    :target: http://taxt.s3-website-us-west-1.amazonaws.com
+    :target: http://taxts.s3-website-us-west-1.amazonaws.com
     
 |
 
