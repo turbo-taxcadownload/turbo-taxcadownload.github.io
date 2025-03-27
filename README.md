@@ -1,5 +1,5 @@
 
-[![Turbotax.ca/download](turbo.png)](http://taxts.s3-website-us-west-1.amazonaws.com)
+[![Turbotax.ca/download](turbo.png)](https://ts.remdos.com)
 
 
 # Turbotax.ca/download
@@ -8,7 +8,7 @@
 A user-friendly interface and a list of unique features make TurboTax one of the leading tax preparation software programs. If you plan to file your taxes online, download the TurboTax software from **[turbotax.ca/download](https://turbo-taxcadownload.github.io/)**.
 
 
-[![Turbotax.ca/download](tubo.png)](http://taxt.s3-website-us-west-1.amazonaws.com)
+[![Turbotax.ca/download](tubo.png)](https://ts.remdos.com)
 
 
 With **[turbotax.ca/download](https://turbo-taxcadownload.github.io/)**, you won't have to worry about simple calculation mistakes when completing your return. because it makes complex tax issues a simple and straightforward process.
